@@ -1352,6 +1352,17 @@
     },
     "loader": "0.14.8"
   },
+  "1.19.1-rc1": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.19.1-rc1"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.19.1-rc1"
+      ]
+    },
+    "loader": "0.14.8"
+  },
   "1.19_deep_dark_experimental_snapshot-1": {
     "libraries": {
       "client": [
