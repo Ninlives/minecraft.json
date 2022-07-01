@@ -1352,6 +1352,17 @@
     },
     "loader": "0.14.8"
   },
+  "1.19.1-pre2": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.19.1-pre2"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.19.1-pre2"
+      ]
+    },
+    "loader": "0.14.8"
+  },
   "1.19.1-rc1": {
     "libraries": {
       "client": [
