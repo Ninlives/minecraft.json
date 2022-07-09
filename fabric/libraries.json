@@ -888,6 +888,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.19.1-pre4": {
+    "hash": {
+      "type": "sha512",
+      "value": "d184b163207955f88168efe26774cdb5acbc402223d6898fbd1eb920c4070f508d64609ab493641e2efa9c764a5e3cb54bd2b25859bd203fdb40517035a2d326"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:1.19.1-rc1": {
     "hash": {
       "type": "sha512",
