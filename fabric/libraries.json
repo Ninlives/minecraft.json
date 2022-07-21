@@ -902,6 +902,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.19.1-pre6": {
+    "hash": {
+      "type": "sha512",
+      "value": "25a5a0a1be832036991ab45c8d44c36598df09ff6fc3d37f467ed3aeda1dafe2c16d4d6c713dc282476be43f9ad6a1af6f06e11485b8e6fee0a7ee0a00641d57"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:1.19.1-rc1": {
     "hash": {
       "type": "sha512",
