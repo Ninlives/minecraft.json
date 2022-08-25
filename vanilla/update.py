@@ -17,7 +17,7 @@ def fetch_manifest():
     for version in response.json()["versions"]:
         v = version["id"]
         url = version["url"]
-        sha1_pattern = r"https://launchermeta.mojang.com/v1/packages/([^/]*)/.*.json"
+        sha1_pattern = r".*/packages/([^/]*)/.*.json"
         sha1 = re.match(sha1_pattern, url).group(1)
         manifest_hashes[v] = {"url": url, "sha1": sha1, "type": version["type"]}
     return manifest_hashes
