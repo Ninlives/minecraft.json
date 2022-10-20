@@ -126,6 +126,7 @@ def main():
 
     except RequestException as e:
         print(f"Update failed: {str(e)}", file=stderr)
+        exit(1)
 
 
 if __name__ == "__main__":

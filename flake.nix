@@ -27,8 +27,9 @@
               popd
             '';
           in pkgs.writeShellScriptBin "update" ''
-            ${snippet "fabric"}
+            set -e
             ${snippet "vanilla"}
+            ${snippet "fabric"}
           '';
         };
       }) // {
