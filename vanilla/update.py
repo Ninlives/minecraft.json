@@ -62,8 +62,9 @@ def maintain_prefetched_files(directory, raw_prefetch_list):
         url = info["url"]
         print(f"fetching '{path}' from '{url}'...")
         with get(url, stream=True) as r:
-            with open(path, "wb") as f:
-                shutil.copyfileobj(r.raw, f)
+            with open(path, 'wb') as f:
+                for chunk in r.iter_content(chunk_size=None):
+                    f.write(chunk)
         if sha1sum(path) != info["sha1"]:
             raise RequestException(f"invalid content hash from {url}")
 
