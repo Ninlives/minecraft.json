@@ -23,6 +23,8 @@ jobs:
       run: |
         git config --global user.name 'Automation - Ninlives'
         git config --global user.email 'wqseleven@gmail.com'
+    - name: Nix flake update
+      run: nix flake update --commit-lock-file
     - name: Update
       run: nix run .#update
     - name: Commit
