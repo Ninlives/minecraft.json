@@ -2960,9 +2960,14 @@
     "url": "https://piston-meta.mojang.com/v1/packages/98801d5d7e50bc1392ead00c3cebba53fde7ccd5/22w24a.json"
   },
   "22w42a": {
-    "sha1": "484ddbed864fe50021283d08edafbb5fe96afc49",
+    "sha1": "440b76ef75eab8a7f453c4160c84c1bc310acb1d",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/484ddbed864fe50021283d08edafbb5fe96afc49/22w42a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/440b76ef75eab8a7f453c4160c84c1bc310acb1d/22w42a.json"
+  },
+  "22w43a": {
+    "sha1": "3df2e71658adfd995d97bf0d643790f2ed1c5fb9",
+    "type": "snapshot",
+    "url": "https://piston-meta.mojang.com/v1/packages/3df2e71658adfd995d97bf0d643790f2ed1c5fb9/22w43a.json"
   },
   "3D Shareware v1.34": {
     "sha1": "fe072c0f3f14f254407068b9515efd825b736a2e",
