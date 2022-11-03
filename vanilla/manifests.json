@@ -2960,14 +2960,19 @@
     "url": "https://piston-meta.mojang.com/v1/packages/98801d5d7e50bc1392ead00c3cebba53fde7ccd5/22w24a.json"
   },
   "22w42a": {
-    "sha1": "440b76ef75eab8a7f453c4160c84c1bc310acb1d",
+    "sha1": "d1fd0a21511b1a940852addd68b707b62c62d911",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/440b76ef75eab8a7f453c4160c84c1bc310acb1d/22w42a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/d1fd0a21511b1a940852addd68b707b62c62d911/22w42a.json"
   },
   "22w43a": {
-    "sha1": "3df2e71658adfd995d97bf0d643790f2ed1c5fb9",
+    "sha1": "f8fff897612915a8a801e3a13be9998d62465d4b",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/3df2e71658adfd995d97bf0d643790f2ed1c5fb9/22w43a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/f8fff897612915a8a801e3a13be9998d62465d4b/22w43a.json"
+  },
+  "22w44a": {
+    "sha1": "0e7f278d574c5145bb18eb75613100234d818198",
+    "type": "snapshot",
+    "url": "https://piston-meta.mojang.com/v1/packages/0e7f278d574c5145bb18eb75613100234d818198/22w44a.json"
   },
   "3D Shareware v1.34": {
     "sha1": "fe072c0f3f14f254407068b9515efd825b736a2e",
