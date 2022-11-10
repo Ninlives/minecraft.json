@@ -2960,19 +2960,24 @@
     "url": "https://piston-meta.mojang.com/v1/packages/98801d5d7e50bc1392ead00c3cebba53fde7ccd5/22w24a.json"
   },
   "22w42a": {
-    "sha1": "d1fd0a21511b1a940852addd68b707b62c62d911",
+    "sha1": "98347f53e6b2412fa90479a501c77ad5943d0969",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/d1fd0a21511b1a940852addd68b707b62c62d911/22w42a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/98347f53e6b2412fa90479a501c77ad5943d0969/22w42a.json"
   },
   "22w43a": {
-    "sha1": "f8fff897612915a8a801e3a13be9998d62465d4b",
+    "sha1": "a8fbb390d1139c15e8c61c2f55f377f8c6a06217",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/f8fff897612915a8a801e3a13be9998d62465d4b/22w43a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/a8fbb390d1139c15e8c61c2f55f377f8c6a06217/22w43a.json"
   },
   "22w44a": {
-    "sha1": "0e7f278d574c5145bb18eb75613100234d818198",
+    "sha1": "d734e2494418748dfee00d847b2f9cef6a84effa",
     "type": "snapshot",
-    "url": "https://piston-meta.mojang.com/v1/packages/0e7f278d574c5145bb18eb75613100234d818198/22w44a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/d734e2494418748dfee00d847b2f9cef6a84effa/22w44a.json"
+  },
+  "22w45a": {
+    "sha1": "375bbc80700f75cf9aa4a1d47f4fed5132c2d881",
+    "type": "snapshot",
+    "url": "https://piston-meta.mojang.com/v1/packages/375bbc80700f75cf9aa4a1d47f4fed5132c2d881/22w45a.json"
   },
   "3D Shareware v1.34": {
     "sha1": "fe072c0f3f14f254407068b9515efd825b736a2e",
