@@ -2914,6 +2914,17 @@
     },
     "loader": "0.14.13"
   },
+  "23w04a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:23w04a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:23w04a"
+      ]
+    },
+    "loader": "0.14.13"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
