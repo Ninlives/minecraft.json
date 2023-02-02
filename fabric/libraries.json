@@ -1875,6 +1875,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:23w05a": {
+    "hash": {
+      "type": "sha512",
+      "value": "f6672a77ae2f63562b910bbc9337570f072ed1d7c6ec97f9d47f3c07613c7b04bd72549e5a39e5231823f16ec7c2b5a302629db5f7756b61531145d876062240"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:3D Shareware v1.34": {
     "hash": {
       "type": "sha512",
