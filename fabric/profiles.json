@@ -1583,6 +1583,17 @@
     },
     "loader": "0.14.14"
   },
+  "1.19.4-pre3": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.19.4-pre3"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.19.4-pre3"
+      ]
+    },
+    "loader": "0.14.14"
+  },
   "1.19_deep_dark_experimental_snapshot-1": {
     "libraries": {
       "client": [
