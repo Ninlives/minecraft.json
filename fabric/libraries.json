@@ -6,10 +6,10 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
-  "net.fabricmc:fabric-loader:0.14.14": {
+  "net.fabricmc:fabric-loader:0.14.17": {
     "hash": {
       "type": "sha512",
-      "value": "691fe733ee6db9dfb30170f9de6094e5427b0868b38b293c8cc37cc973e627d30138d93cc94e82951589cd8b6edaa97013a5daafef40fb1d0aba86ba79322ba1"
+      "value": "72af7b4db7a58565669810af5bceb76c5681ab5740973088c8a3c670b19b197efe633b99d0f274ac2892f7ef9f2a2c351f0bb21967148b6f37c0c44a327f7b4b"
     },
     "repo": "https://maven.fabricmc.net/"
   },
@@ -1924,10 +1924,10 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
-  "net.fabricmc:sponge-mixin:0.11.4+mixin.0.8.5": {
+  "net.fabricmc:sponge-mixin:0.12.4+mixin.0.8.5": {
     "hash": {
       "type": "sha512",
-      "value": "b26f6a2a38f26aa1a74c23bbf400054bc43f1ca713a1d47449a6d6c83cd42bbbdba3d5f9116b657122dc105eb74b65e253d5d592485e0ea6c215cf14adf8db00"
+      "value": "9032e7b78c98e7f187ee2872d073ea4e9133ee42f5c0da6bf0bafef73c92d0d0146173843baa88c65d7b1722d79e989aa01200ebed004c5894b29018e5882324"
     },
     "repo": "https://maven.fabricmc.net/"
   },
