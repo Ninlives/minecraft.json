@@ -1028,6 +1028,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.19.4-pre4": {
+    "hash": {
+      "type": "sha512",
+      "value": "61e06c61952b55b9d1c12c5c0879b7b356bf8574bd7ea5c1a3dfe154387e90979c8549cd2f72fabdc66db34205e6ceda490218851160bacf9cb27274ec4b8cad"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1": {
     "hash": {
       "type": "sha512",
