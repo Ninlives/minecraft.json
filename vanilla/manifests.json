@@ -3094,6 +3094,11 @@
     "type": "snapshot",
     "url": "https://piston-meta.mojang.com/v1/packages/c4f1c7689088091cd37623e800d82a03836e2137/23w13a.json"
   },
+  "23w13a_or_b": {
+    "sha1": "f7dc73624306a835e2e7274b198260d361dc2005",
+    "type": "snapshot",
+    "url": "https://piston-meta.mojang.com/v1/packages/f7dc73624306a835e2e7274b198260d361dc2005/23w13a_or_b.json"
+  },
   "3D Shareware v1.34": {
     "sha1": "fe072c0f3f14f254407068b9515efd825b736a2e",
     "type": "snapshot",
