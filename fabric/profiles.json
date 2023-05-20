@@ -1682,6 +1682,28 @@
     },
     "loader": "0.14.19"
   },
+  "1.20-pre3": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.20-pre3"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.20-pre3"
+      ]
+    },
+    "loader": "0.14.19"
+  },
+  "1.20-pre4": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.20-pre4"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.20-pre4"
+      ]
+    },
+    "loader": "0.14.19"
+  },
   "18w43b": {
     "libraries": {
       "client": [

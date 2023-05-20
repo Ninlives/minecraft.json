@@ -1084,6 +1084,20 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.20-pre3": {
+    "hash": {
+      "type": "sha512",
+      "value": "4abddba803df0c1e1c373e088728b2dbf8fa836d754109d2cb698a91106a280ade991bfc7bafa169881d824caa4fc13e169825d8434e2641f519a1cddca1c565"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
+  "net.fabricmc:intermediary:1.20-pre4": {
+    "hash": {
+      "type": "sha512",
+      "value": "e665b3500b402d37a92a290d1e6d5447365da74233212d83689751232ae9c23b464b21dd18390d6288dcab787b1fcc885d5c0b09404696adb1ff74b0cd50190c"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:18w43b": {
     "hash": {
       "type": "sha512",
