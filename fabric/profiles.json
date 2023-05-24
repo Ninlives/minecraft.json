@@ -1704,6 +1704,17 @@
     },
     "loader": "0.14.19"
   },
+  "1.20-pre5": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.20-pre5"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.20-pre5"
+      ]
+    },
+    "loader": "0.14.19"
+  },
   "18w43b": {
     "libraries": {
       "client": [
