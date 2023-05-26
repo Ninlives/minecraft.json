@@ -1,16 +1,16 @@
 {
-  "0.14.19": {
+  "0.14.20": {
     "libraries": [
       "net.fabricmc:access-widener:2.1.0",
-      "net.fabricmc:fabric-loader:0.14.19",
-      "net.fabricmc:sponge-mixin:0.12.4+mixin.0.8.5",
+      "net.fabricmc:fabric-loader:0.14.20",
+      "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
       "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
       "net.fabricmc:tiny-remapper:0.8.2",
-      "org.ow2.asm:asm-analysis:9.4",
-      "org.ow2.asm:asm-commons:9.4",
-      "org.ow2.asm:asm-tree:9.4",
-      "org.ow2.asm:asm-util:9.4",
-      "org.ow2.asm:asm:9.4"
+      "org.ow2.asm:asm-analysis:9.5",
+      "org.ow2.asm:asm-commons:9.5",
+      "org.ow2.asm:asm-tree:9.5",
+      "org.ow2.asm:asm-util:9.5",
+      "org.ow2.asm:asm:9.5"
     ],
     "mainClass": {
       "client": "net.fabricmc.loader.impl.launch.knot.KnotClient",
