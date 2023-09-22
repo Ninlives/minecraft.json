@@ -1147,6 +1147,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.20.2": {
+    "hash": {
+      "type": "sha512",
+      "value": "d4534b9655315f6787c39b86ad8f077e7b23f5d381c3f0214dd2ec56cd4f5b7c94cd0fd6be2b26d729a1a3a05d1d1f0c2c09c08ffd0329ad0c48c2e3b5c6b9dd"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:1.20.2-pre1": {
     "hash": {
       "type": "sha512",
