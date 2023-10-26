@@ -3409,6 +3409,17 @@
     },
     "loader": "0.14.24"
   },
+  "23w43a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:23w43a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:23w43a"
+      ]
+    },
+    "loader": "0.14.24"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
