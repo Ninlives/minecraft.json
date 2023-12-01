@@ -1,15 +1,8 @@
 {
-  "net.fabricmc:access-widener:2.1.0": {
+  "net.fabricmc:fabric-loader:0.15.0": {
     "hash": {
       "type": "sha512",
-      "value": "518f1db178b4ea32b50a4bf4b54f3ef170b1a6bc8184c69d10daf29793056040643de7be59299a42e4a74aef310849526a44ba391df65a64523920f25dd3b403"
-    },
-    "repo": "https://maven.fabricmc.net/"
-  },
-  "net.fabricmc:fabric-loader:0.14.25": {
-    "hash": {
-      "type": "sha512",
-      "value": "4905b91fd0912a33cc76377f1e894ac90c284f0868163ceae305bdb885436e1829301740ed6c4b7881ba4ee1a8331b575eb368fde0dbc1d4b54afb7ac9ac8028"
+      "value": "b699cb4b3cd2c65511fe176923b092f291a674440c1a49023c63f0359a2795f0e1e8f577546a97d6e439db13b4e43143c68e01e895ff218c0e204657071bd038"
     },
     "repo": "https://maven.fabricmc.net/"
   },
@@ -1224,6 +1217,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:1.20.3-rc1": {
+    "hash": {
+      "type": "sha512",
+      "value": "1cfa5bcd1cb16c0ae624200e3d10c8603a28236ad2864eb333c648d6fd3e09215f45ccb0cc646484fe1acf31744bb71e80cd10ebd18b3b27a493099b2d4a2f9c"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:18w43b": {
     "hash": {
       "type": "sha512",
@@ -2257,20 +2257,6 @@
     "hash": {
       "type": "sha512",
       "value": "bc177a4c5cfb5605e627bfbd9101ec69df260fc54f0e8792a962e953df9c29a84a3deb8a243dfec91dba3845224b950fac5673e1d98d9ad78badb2394063eafd"
-    },
-    "repo": "https://maven.fabricmc.net/"
-  },
-  "net.fabricmc:tiny-mappings-parser:0.3.0+build.17": {
-    "hash": {
-      "type": "sha512",
-      "value": "b105efe66ee8404d503db28f98f4b0c53efc04f218a1e115001080ea7c08dfeff38b37fb95757ce8261fc3ecf617007b511b995d3f371e78659f37d154695665"
-    },
-    "repo": "https://maven.fabricmc.net/"
-  },
-  "net.fabricmc:tiny-remapper:0.8.2": {
-    "hash": {
-      "type": "sha512",
-      "value": "48383a67573a499a27c62dcd24f6b64ced305b4de20099ab9e820a06660bb140bb3ae4785f35842448acb2b2430f29078bf53acf7c8323486196610ad58241d7"
     },
     "repo": "https://maven.fabricmc.net/"
   },
