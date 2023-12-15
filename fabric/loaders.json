@@ -1,7 +1,7 @@
 {
-  "0.15.1": {
+  "0.15.2": {
     "libraries": [
-      "net.fabricmc:fabric-loader:0.15.1",
+      "net.fabricmc:fabric-loader:0.15.2",
       "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
       "org.ow2.asm:asm-analysis:9.6",
       "org.ow2.asm:asm-commons:9.6",
