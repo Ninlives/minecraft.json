@@ -1,8 +1,8 @@
 {
-  "net.fabricmc:fabric-loader:0.15.3": {
+  "net.fabricmc:fabric-loader:0.15.5": {
     "hash": {
       "type": "sha512",
-      "value": "fe5cd9648f21e17403ebc335ee246aea7c3ac1bab7050d1d2d9ae7541c8706298e426eb8300c8a117f83ea17abd0210814735b19929a4df05868a3741aad11d0"
+      "value": "31e909014b51887cc3bd0c3dc6973f0984ed6ea18cea3b18612c46a250abf9d2885acb577fe3ccd41341250d69a210ffed945e1776adf324c0bf64bd91b96f19"
     },
     "repo": "https://maven.fabricmc.net/"
   },
