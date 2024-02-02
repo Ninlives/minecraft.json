@@ -3618,6 +3618,17 @@
     },
     "loader": "0.15.6"
   },
+  "24w05b": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w05b"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w05b"
+      ]
+    },
+    "loader": "0.15.6"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
