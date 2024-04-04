@@ -3706,6 +3706,17 @@
     },
     "loader": "0.15.9"
   },
+  "24w14a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w14a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w14a"
+      ]
+    },
+    "loader": "0.15.9"
+  },
   "24w14potato": {
     "libraries": {
       "client": [
