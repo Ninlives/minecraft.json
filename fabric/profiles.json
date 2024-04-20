@@ -2001,6 +2001,17 @@
     },
     "loader": "0.15.10"
   },
+  "1.20.5-rc2": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.20.5-rc2"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.20.5-rc2"
+      ]
+    },
+    "loader": "0.15.10"
+  },
   "18w43b": {
     "libraries": {
       "client": [
