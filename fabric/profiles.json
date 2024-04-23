@@ -2012,6 +2012,17 @@
     },
     "loader": "0.15.10"
   },
+  "1.20.5-rc3": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.20.5-rc3"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.20.5-rc3"
+      ]
+    },
+    "loader": "0.15.10"
+  },
   "18w43b": {
     "libraries": {
       "client": [
