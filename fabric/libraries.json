@@ -2463,6 +2463,20 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:24w19a": {
+    "hash": {
+      "type": "sha512",
+      "value": "5727ebcac1102b68629f17f4d4e0ef5adf07c353e7875a2e301d7878e83c2a9054800f4b76c733019bd9b99f5d595295af5b4ba4cbb278bd55b16e01c944c07c"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
+  "net.fabricmc:intermediary:24w19b": {
+    "hash": {
+      "type": "sha512",
+      "value": "000333bb54343ffb85ea745c8a2e57595f6b4892b24920c3fe43fb9f425723616d95914d69ad91026e8a7f32d6722fcaf19662377a23590b1688c1a2a816d6b4"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:3D Shareware v1.34": {
     "hash": {
       "type": "sha512",
