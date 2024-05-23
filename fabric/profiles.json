@@ -3893,6 +3893,28 @@
     },
     "loader": "0.15.11"
   },
+  "24w21a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w21a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w21a"
+      ]
+    },
+    "loader": "0.15.11"
+  },
+  "24w21b": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w21b"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w21b"
+      ]
+    },
+    "loader": "0.15.11"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
