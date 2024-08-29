@@ -4025,6 +4025,17 @@
     },
     "loader": "0.16.3"
   },
+  "24w35a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w35a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w35a"
+      ]
+    },
+    "loader": "0.16.3"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
