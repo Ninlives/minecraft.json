@@ -4080,6 +4080,17 @@
     },
     "loader": "0.16.5"
   },
+  "24w40a": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:24w40a"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:24w40a"
+      ]
+    },
+    "loader": "0.16.5"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
