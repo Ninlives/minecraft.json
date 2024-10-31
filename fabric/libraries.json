@@ -1,8 +1,8 @@
 {
-  "net.fabricmc:fabric-loader:0.16.7": {
+  "net.fabricmc:fabric-loader:0.16.9": {
     "hash": {
       "type": "sha512",
-      "value": "3c90a396005b2fdf403c55a88d4e4aaecd1c5540ac78d2ad2afae2d57325d1ed94306463d0343fffa94aa63e2f11a4b0884124f6453b645feb9d8dfe12f14b8f"
+      "value": "43cb869e7ed2f05d66ebd36b08809509041118bb90732ed19d0325717f51ec207ce7fc9c6ceaca7728e0de50ffc54e784c2c1fba17e359367416c9e1a7e48709"
     },
     "repo": "https://maven.fabricmc.net/"
   },
@@ -2673,6 +2673,13 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
+  "net.fabricmc:intermediary:24w44a": {
+    "hash": {
+      "type": "sha512",
+      "value": "f5514703845879d4764ed40d6e29f43c4fd0d5c2eee1bd9f1262f2d1a24d11b3b15fc6797a48e5a8e367c450fa4a9bf28620fa1f6eec9e0676f362706bb62322"
+    },
+    "repo": "https://maven.fabricmc.net/"
+  },
   "net.fabricmc:intermediary:3D Shareware v1.34": {
     "hash": {
       "type": "sha512",
@@ -2680,10 +2687,10 @@
     },
     "repo": "https://maven.fabricmc.net/"
   },
-  "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7": {
+  "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7": {
     "hash": {
       "type": "sha512",
-      "value": "3be527b0122a54a1cd5b542a45afd7a9d3d1186fd7d0c62a6c704656229e426a283be35ae285dbd188817467a307f969b0aef28dfa8fa1f360fafdb6a561c9db"
+      "value": "d4f6caaee7cb841cc9bc36ae5eb725bdb3dd28a5af8f63f75747a17156d708263b37f5a87eca863b2c3d91732c0b128318e9de455d1cd964e1ae8ba0a318fbf1"
     },
     "repo": "https://maven.fabricmc.net/"
   },
