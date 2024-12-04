@@ -2243,6 +2243,17 @@
     },
     "loader": "0.16.9"
   },
+  "1.21.4": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.21.4"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.21.4"
+      ]
+    },
+    "loader": "0.16.9"
+  },
   "1.21.4-pre1": {
     "libraries": {
       "client": [
