@@ -2364,6 +2364,17 @@
     },
     "loader": "0.16.10"
   },
+  "1.21.5-rc2": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.21.5-rc2"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.21.5-rc2"
+      ]
+    },
+    "loader": "0.16.10"
+  },
   "18w43b": {
     "libraries": {
       "client": [
