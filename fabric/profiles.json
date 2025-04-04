@@ -8,7 +8,7 @@
         "net.fabricmc:intermediary:1.14"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14 Pre-Release 1": {
     "libraries": {
@@ -19,7 +19,7 @@
         "net.fabricmc:intermediary:1.14 Pre-Release 1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14 Pre-Release 2": {
     "libraries": {
@@ -30,7 +30,7 @@
         "net.fabricmc:intermediary:1.14 Pre-Release 2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14 Pre-Release 3": {
     "libraries": {
@@ -41,7 +41,7 @@
         "net.fabricmc:intermediary:1.14 Pre-Release 3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14 Pre-Release 4": {
     "libraries": {
@@ -52,7 +52,7 @@
         "net.fabricmc:intermediary:1.14 Pre-Release 4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14 Pre-Release 5": {
     "libraries": {
@@ -63,7 +63,7 @@
         "net.fabricmc:intermediary:1.14 Pre-Release 5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.1": {
     "libraries": {
@@ -74,7 +74,7 @@
         "net.fabricmc:intermediary:1.14.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.1 Pre-Release 1": {
     "libraries": {
@@ -85,7 +85,7 @@
         "net.fabricmc:intermediary:1.14.1 Pre-Release 1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.1 Pre-Release 2": {
     "libraries": {
@@ -96,7 +96,7 @@
         "net.fabricmc:intermediary:1.14.1 Pre-Release 2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.2": {
     "libraries": {
@@ -107,7 +107,7 @@
         "net.fabricmc:intermediary:1.14.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.2 Pre-Release 1": {
     "libraries": {
@@ -118,7 +118,7 @@
         "net.fabricmc:intermediary:1.14.2 Pre-Release 1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.2 Pre-Release 2": {
     "libraries": {
@@ -129,7 +129,7 @@
         "net.fabricmc:intermediary:1.14.2 Pre-Release 2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.2 Pre-Release 3": {
     "libraries": {
@@ -140,7 +140,7 @@
         "net.fabricmc:intermediary:1.14.2 Pre-Release 3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.2 Pre-Release 4": {
     "libraries": {
@@ -151,7 +151,7 @@
         "net.fabricmc:intermediary:1.14.2 Pre-Release 4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.3": {
     "libraries": {
@@ -162,7 +162,7 @@
         "net.fabricmc:intermediary:1.14.3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.3-pre1": {
     "libraries": {
@@ -173,7 +173,7 @@
         "net.fabricmc:intermediary:1.14.3-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.3-pre2": {
     "libraries": {
@@ -184,7 +184,7 @@
         "net.fabricmc:intermediary:1.14.3-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.3-pre3": {
     "libraries": {
@@ -195,7 +195,7 @@
         "net.fabricmc:intermediary:1.14.3-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.3-pre4": {
     "libraries": {
@@ -206,7 +206,7 @@
         "net.fabricmc:intermediary:1.14.3-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4": {
     "libraries": {
@@ -217,7 +217,7 @@
         "net.fabricmc:intermediary:1.14.4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre1": {
     "libraries": {
@@ -228,7 +228,7 @@
         "net.fabricmc:intermediary:1.14.4-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre2": {
     "libraries": {
@@ -239,7 +239,7 @@
         "net.fabricmc:intermediary:1.14.4-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre3": {
     "libraries": {
@@ -250,7 +250,7 @@
         "net.fabricmc:intermediary:1.14.4-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre4": {
     "libraries": {
@@ -261,7 +261,7 @@
         "net.fabricmc:intermediary:1.14.4-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre5": {
     "libraries": {
@@ -272,7 +272,7 @@
         "net.fabricmc:intermediary:1.14.4-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre6": {
     "libraries": {
@@ -283,7 +283,7 @@
         "net.fabricmc:intermediary:1.14.4-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14.4-pre7": {
     "libraries": {
@@ -294,7 +294,7 @@
         "net.fabricmc:intermediary:1.14.4-pre7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14_combat-0": {
     "libraries": {
@@ -305,7 +305,7 @@
         "net.fabricmc:intermediary:1.14_combat-0"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14_combat-212796": {
     "libraries": {
@@ -316,7 +316,7 @@
         "net.fabricmc:intermediary:1.14_combat-212796"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.14_combat-3": {
     "libraries": {
@@ -327,7 +327,7 @@
         "net.fabricmc:intermediary:1.14_combat-3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15": {
     "libraries": {
@@ -338,7 +338,7 @@
         "net.fabricmc:intermediary:1.15"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre1": {
     "libraries": {
@@ -349,7 +349,7 @@
         "net.fabricmc:intermediary:1.15-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre2": {
     "libraries": {
@@ -360,7 +360,7 @@
         "net.fabricmc:intermediary:1.15-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre3": {
     "libraries": {
@@ -371,7 +371,7 @@
         "net.fabricmc:intermediary:1.15-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre4": {
     "libraries": {
@@ -382,7 +382,7 @@
         "net.fabricmc:intermediary:1.15-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre5": {
     "libraries": {
@@ -393,7 +393,7 @@
         "net.fabricmc:intermediary:1.15-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre6": {
     "libraries": {
@@ -404,7 +404,7 @@
         "net.fabricmc:intermediary:1.15-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15-pre7": {
     "libraries": {
@@ -415,7 +415,7 @@
         "net.fabricmc:intermediary:1.15-pre7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15.1": {
     "libraries": {
@@ -426,7 +426,7 @@
         "net.fabricmc:intermediary:1.15.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15.1-pre1": {
     "libraries": {
@@ -437,7 +437,7 @@
         "net.fabricmc:intermediary:1.15.1-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15.2": {
     "libraries": {
@@ -448,7 +448,7 @@
         "net.fabricmc:intermediary:1.15.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15.2-pre1": {
     "libraries": {
@@ -459,7 +459,7 @@
         "net.fabricmc:intermediary:1.15.2-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15.2-pre2": {
     "libraries": {
@@ -470,7 +470,7 @@
         "net.fabricmc:intermediary:1.15.2-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.15_combat-1": {
     "libraries": {
@@ -481,7 +481,7 @@
         "net.fabricmc:intermediary:1.15_combat-1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16": {
     "libraries": {
@@ -492,7 +492,7 @@
         "net.fabricmc:intermediary:1.16"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre1": {
     "libraries": {
@@ -503,7 +503,7 @@
         "net.fabricmc:intermediary:1.16-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre2": {
     "libraries": {
@@ -514,7 +514,7 @@
         "net.fabricmc:intermediary:1.16-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre3": {
     "libraries": {
@@ -525,7 +525,7 @@
         "net.fabricmc:intermediary:1.16-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre4": {
     "libraries": {
@@ -536,7 +536,7 @@
         "net.fabricmc:intermediary:1.16-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre5": {
     "libraries": {
@@ -547,7 +547,7 @@
         "net.fabricmc:intermediary:1.16-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre6": {
     "libraries": {
@@ -558,7 +558,7 @@
         "net.fabricmc:intermediary:1.16-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre7": {
     "libraries": {
@@ -569,7 +569,7 @@
         "net.fabricmc:intermediary:1.16-pre7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-pre8": {
     "libraries": {
@@ -580,7 +580,7 @@
         "net.fabricmc:intermediary:1.16-pre8"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16-rc1": {
     "libraries": {
@@ -591,7 +591,7 @@
         "net.fabricmc:intermediary:1.16-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.1": {
     "libraries": {
@@ -602,7 +602,7 @@
         "net.fabricmc:intermediary:1.16.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2": {
     "libraries": {
@@ -613,7 +613,7 @@
         "net.fabricmc:intermediary:1.16.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2-pre1": {
     "libraries": {
@@ -624,7 +624,7 @@
         "net.fabricmc:intermediary:1.16.2-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2-pre2": {
     "libraries": {
@@ -635,7 +635,7 @@
         "net.fabricmc:intermediary:1.16.2-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2-pre3": {
     "libraries": {
@@ -646,7 +646,7 @@
         "net.fabricmc:intermediary:1.16.2-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2-rc1": {
     "libraries": {
@@ -657,7 +657,7 @@
         "net.fabricmc:intermediary:1.16.2-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.2-rc2": {
     "libraries": {
@@ -668,7 +668,7 @@
         "net.fabricmc:intermediary:1.16.2-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.3": {
     "libraries": {
@@ -679,7 +679,7 @@
         "net.fabricmc:intermediary:1.16.3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.3-rc1": {
     "libraries": {
@@ -690,7 +690,7 @@
         "net.fabricmc:intermediary:1.16.3-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.4": {
     "libraries": {
@@ -701,7 +701,7 @@
         "net.fabricmc:intermediary:1.16.4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.4-pre1": {
     "libraries": {
@@ -712,7 +712,7 @@
         "net.fabricmc:intermediary:1.16.4-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.4-pre2": {
     "libraries": {
@@ -723,7 +723,7 @@
         "net.fabricmc:intermediary:1.16.4-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.4-rc1": {
     "libraries": {
@@ -734,7 +734,7 @@
         "net.fabricmc:intermediary:1.16.4-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.5": {
     "libraries": {
@@ -745,7 +745,7 @@
         "net.fabricmc:intermediary:1.16.5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16.5-rc1": {
     "libraries": {
@@ -756,7 +756,7 @@
         "net.fabricmc:intermediary:1.16.5-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.16_combat-3": {
     "libraries": {
@@ -767,7 +767,7 @@
         "net.fabricmc:intermediary:1.16_combat-3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17": {
     "libraries": {
@@ -778,7 +778,7 @@
         "net.fabricmc:intermediary:1.17"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-pre1": {
     "libraries": {
@@ -789,7 +789,7 @@
         "net.fabricmc:intermediary:1.17-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-pre2": {
     "libraries": {
@@ -800,7 +800,7 @@
         "net.fabricmc:intermediary:1.17-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-pre3": {
     "libraries": {
@@ -811,7 +811,7 @@
         "net.fabricmc:intermediary:1.17-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-pre4": {
     "libraries": {
@@ -822,7 +822,7 @@
         "net.fabricmc:intermediary:1.17-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-pre5": {
     "libraries": {
@@ -833,7 +833,7 @@
         "net.fabricmc:intermediary:1.17-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-rc1": {
     "libraries": {
@@ -844,7 +844,7 @@
         "net.fabricmc:intermediary:1.17-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17-rc2": {
     "libraries": {
@@ -855,7 +855,7 @@
         "net.fabricmc:intermediary:1.17-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1": {
     "libraries": {
@@ -866,7 +866,7 @@
         "net.fabricmc:intermediary:1.17.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1-pre1": {
     "libraries": {
@@ -877,7 +877,7 @@
         "net.fabricmc:intermediary:1.17.1-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1-pre2": {
     "libraries": {
@@ -888,7 +888,7 @@
         "net.fabricmc:intermediary:1.17.1-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1-pre3": {
     "libraries": {
@@ -899,7 +899,7 @@
         "net.fabricmc:intermediary:1.17.1-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1-rc1": {
     "libraries": {
@@ -910,7 +910,7 @@
         "net.fabricmc:intermediary:1.17.1-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.17.1-rc2": {
     "libraries": {
@@ -921,7 +921,7 @@
         "net.fabricmc:intermediary:1.17.1-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18": {
     "libraries": {
@@ -932,7 +932,7 @@
         "net.fabricmc:intermediary:1.18"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre1": {
     "libraries": {
@@ -943,7 +943,7 @@
         "net.fabricmc:intermediary:1.18-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre2": {
     "libraries": {
@@ -954,7 +954,7 @@
         "net.fabricmc:intermediary:1.18-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre3": {
     "libraries": {
@@ -965,7 +965,7 @@
         "net.fabricmc:intermediary:1.18-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre4": {
     "libraries": {
@@ -976,7 +976,7 @@
         "net.fabricmc:intermediary:1.18-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre5": {
     "libraries": {
@@ -987,7 +987,7 @@
         "net.fabricmc:intermediary:1.18-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre6": {
     "libraries": {
@@ -998,7 +998,7 @@
         "net.fabricmc:intermediary:1.18-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre7": {
     "libraries": {
@@ -1009,7 +1009,7 @@
         "net.fabricmc:intermediary:1.18-pre7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-pre8": {
     "libraries": {
@@ -1020,7 +1020,7 @@
         "net.fabricmc:intermediary:1.18-pre8"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-rc1": {
     "libraries": {
@@ -1031,7 +1031,7 @@
         "net.fabricmc:intermediary:1.18-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-rc2": {
     "libraries": {
@@ -1042,7 +1042,7 @@
         "net.fabricmc:intermediary:1.18-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-rc3": {
     "libraries": {
@@ -1053,7 +1053,7 @@
         "net.fabricmc:intermediary:1.18-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18-rc4": {
     "libraries": {
@@ -1064,7 +1064,7 @@
         "net.fabricmc:intermediary:1.18-rc4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.1": {
     "libraries": {
@@ -1075,7 +1075,7 @@
         "net.fabricmc:intermediary:1.18.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.1-pre1": {
     "libraries": {
@@ -1086,7 +1086,7 @@
         "net.fabricmc:intermediary:1.18.1-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.1-rc1": {
     "libraries": {
@@ -1097,7 +1097,7 @@
         "net.fabricmc:intermediary:1.18.1-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.1-rc2": {
     "libraries": {
@@ -1108,7 +1108,7 @@
         "net.fabricmc:intermediary:1.18.1-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.1-rc3": {
     "libraries": {
@@ -1119,7 +1119,7 @@
         "net.fabricmc:intermediary:1.18.1-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.2": {
     "libraries": {
@@ -1130,7 +1130,7 @@
         "net.fabricmc:intermediary:1.18.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.2-pre1": {
     "libraries": {
@@ -1141,7 +1141,7 @@
         "net.fabricmc:intermediary:1.18.2-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.2-pre2": {
     "libraries": {
@@ -1152,7 +1152,7 @@
         "net.fabricmc:intermediary:1.18.2-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.2-pre3": {
     "libraries": {
@@ -1163,7 +1163,7 @@
         "net.fabricmc:intermediary:1.18.2-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18.2-rc1": {
     "libraries": {
@@ -1174,7 +1174,7 @@
         "net.fabricmc:intermediary:1.18.2-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-1": {
     "libraries": {
@@ -1185,7 +1185,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-2": {
     "libraries": {
@@ -1196,7 +1196,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-3": {
     "libraries": {
@@ -1207,7 +1207,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-4": {
     "libraries": {
@@ -1218,7 +1218,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-5": {
     "libraries": {
@@ -1229,7 +1229,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-6": {
     "libraries": {
@@ -1240,7 +1240,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.18_experimental-snapshot-7": {
     "libraries": {
@@ -1251,7 +1251,7 @@
         "net.fabricmc:intermediary:1.18_experimental-snapshot-7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19": {
     "libraries": {
@@ -1262,7 +1262,7 @@
         "net.fabricmc:intermediary:1.19"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-pre1": {
     "libraries": {
@@ -1273,7 +1273,7 @@
         "net.fabricmc:intermediary:1.19-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-pre2": {
     "libraries": {
@@ -1284,7 +1284,7 @@
         "net.fabricmc:intermediary:1.19-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-pre3": {
     "libraries": {
@@ -1295,7 +1295,7 @@
         "net.fabricmc:intermediary:1.19-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-pre4": {
     "libraries": {
@@ -1306,7 +1306,7 @@
         "net.fabricmc:intermediary:1.19-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-pre5": {
     "libraries": {
@@ -1317,7 +1317,7 @@
         "net.fabricmc:intermediary:1.19-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-rc1": {
     "libraries": {
@@ -1328,7 +1328,7 @@
         "net.fabricmc:intermediary:1.19-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19-rc2": {
     "libraries": {
@@ -1339,7 +1339,7 @@
         "net.fabricmc:intermediary:1.19-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1": {
     "libraries": {
@@ -1350,7 +1350,7 @@
         "net.fabricmc:intermediary:1.19.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre1": {
     "libraries": {
@@ -1361,7 +1361,7 @@
         "net.fabricmc:intermediary:1.19.1-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre2": {
     "libraries": {
@@ -1372,7 +1372,7 @@
         "net.fabricmc:intermediary:1.19.1-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre3": {
     "libraries": {
@@ -1383,7 +1383,7 @@
         "net.fabricmc:intermediary:1.19.1-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre4": {
     "libraries": {
@@ -1394,7 +1394,7 @@
         "net.fabricmc:intermediary:1.19.1-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre5": {
     "libraries": {
@@ -1405,7 +1405,7 @@
         "net.fabricmc:intermediary:1.19.1-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-pre6": {
     "libraries": {
@@ -1416,7 +1416,7 @@
         "net.fabricmc:intermediary:1.19.1-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-rc1": {
     "libraries": {
@@ -1427,7 +1427,7 @@
         "net.fabricmc:intermediary:1.19.1-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-rc2": {
     "libraries": {
@@ -1438,7 +1438,7 @@
         "net.fabricmc:intermediary:1.19.1-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.1-rc3": {
     "libraries": {
@@ -1449,7 +1449,7 @@
         "net.fabricmc:intermediary:1.19.1-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.2": {
     "libraries": {
@@ -1460,7 +1460,7 @@
         "net.fabricmc:intermediary:1.19.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.2-rc1": {
     "libraries": {
@@ -1471,7 +1471,7 @@
         "net.fabricmc:intermediary:1.19.2-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.2-rc2": {
     "libraries": {
@@ -1482,7 +1482,7 @@
         "net.fabricmc:intermediary:1.19.2-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3": {
     "libraries": {
@@ -1493,7 +1493,7 @@
         "net.fabricmc:intermediary:1.19.3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-pre1": {
     "libraries": {
@@ -1504,7 +1504,7 @@
         "net.fabricmc:intermediary:1.19.3-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-pre2": {
     "libraries": {
@@ -1515,7 +1515,7 @@
         "net.fabricmc:intermediary:1.19.3-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-pre3": {
     "libraries": {
@@ -1526,7 +1526,7 @@
         "net.fabricmc:intermediary:1.19.3-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-rc1": {
     "libraries": {
@@ -1537,7 +1537,7 @@
         "net.fabricmc:intermediary:1.19.3-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-rc2": {
     "libraries": {
@@ -1548,7 +1548,7 @@
         "net.fabricmc:intermediary:1.19.3-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.3-rc3": {
     "libraries": {
@@ -1559,7 +1559,7 @@
         "net.fabricmc:intermediary:1.19.3-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4": {
     "libraries": {
@@ -1570,7 +1570,7 @@
         "net.fabricmc:intermediary:1.19.4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-pre1": {
     "libraries": {
@@ -1581,7 +1581,7 @@
         "net.fabricmc:intermediary:1.19.4-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-pre2": {
     "libraries": {
@@ -1592,7 +1592,7 @@
         "net.fabricmc:intermediary:1.19.4-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-pre3": {
     "libraries": {
@@ -1603,7 +1603,7 @@
         "net.fabricmc:intermediary:1.19.4-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-pre4": {
     "libraries": {
@@ -1614,7 +1614,7 @@
         "net.fabricmc:intermediary:1.19.4-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-rc1": {
     "libraries": {
@@ -1625,7 +1625,7 @@
         "net.fabricmc:intermediary:1.19.4-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-rc2": {
     "libraries": {
@@ -1636,7 +1636,7 @@
         "net.fabricmc:intermediary:1.19.4-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19.4-rc3": {
     "libraries": {
@@ -1647,7 +1647,7 @@
         "net.fabricmc:intermediary:1.19.4-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.19_deep_dark_experimental_snapshot-1": {
     "libraries": {
@@ -1658,7 +1658,7 @@
         "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20": {
     "libraries": {
@@ -1669,7 +1669,7 @@
         "net.fabricmc:intermediary:1.20"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre1": {
     "libraries": {
@@ -1680,7 +1680,7 @@
         "net.fabricmc:intermediary:1.20-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre2": {
     "libraries": {
@@ -1691,7 +1691,7 @@
         "net.fabricmc:intermediary:1.20-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre3": {
     "libraries": {
@@ -1702,7 +1702,7 @@
         "net.fabricmc:intermediary:1.20-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre4": {
     "libraries": {
@@ -1713,7 +1713,7 @@
         "net.fabricmc:intermediary:1.20-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre5": {
     "libraries": {
@@ -1724,7 +1724,7 @@
         "net.fabricmc:intermediary:1.20-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre6": {
     "libraries": {
@@ -1735,7 +1735,7 @@
         "net.fabricmc:intermediary:1.20-pre6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-pre7": {
     "libraries": {
@@ -1746,7 +1746,7 @@
         "net.fabricmc:intermediary:1.20-pre7"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20-rc1": {
     "libraries": {
@@ -1757,7 +1757,7 @@
         "net.fabricmc:intermediary:1.20-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.1": {
     "libraries": {
@@ -1768,7 +1768,7 @@
         "net.fabricmc:intermediary:1.20.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.1-rc1": {
     "libraries": {
@@ -1779,7 +1779,7 @@
         "net.fabricmc:intermediary:1.20.1-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2": {
     "libraries": {
@@ -1790,7 +1790,7 @@
         "net.fabricmc:intermediary:1.20.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-pre1": {
     "libraries": {
@@ -1801,7 +1801,7 @@
         "net.fabricmc:intermediary:1.20.2-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-pre2": {
     "libraries": {
@@ -1812,7 +1812,7 @@
         "net.fabricmc:intermediary:1.20.2-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-pre3": {
     "libraries": {
@@ -1823,7 +1823,7 @@
         "net.fabricmc:intermediary:1.20.2-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-pre4": {
     "libraries": {
@@ -1834,7 +1834,7 @@
         "net.fabricmc:intermediary:1.20.2-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-rc1": {
     "libraries": {
@@ -1845,7 +1845,7 @@
         "net.fabricmc:intermediary:1.20.2-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.2-rc2": {
     "libraries": {
@@ -1856,7 +1856,7 @@
         "net.fabricmc:intermediary:1.20.2-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3": {
     "libraries": {
@@ -1867,7 +1867,7 @@
         "net.fabricmc:intermediary:1.20.3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3-pre1": {
     "libraries": {
@@ -1878,7 +1878,7 @@
         "net.fabricmc:intermediary:1.20.3-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3-pre2": {
     "libraries": {
@@ -1889,7 +1889,7 @@
         "net.fabricmc:intermediary:1.20.3-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3-pre3": {
     "libraries": {
@@ -1900,7 +1900,7 @@
         "net.fabricmc:intermediary:1.20.3-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3-pre4": {
     "libraries": {
@@ -1911,7 +1911,7 @@
         "net.fabricmc:intermediary:1.20.3-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.3-rc1": {
     "libraries": {
@@ -1922,7 +1922,7 @@
         "net.fabricmc:intermediary:1.20.3-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.4": {
     "libraries": {
@@ -1933,7 +1933,7 @@
         "net.fabricmc:intermediary:1.20.4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.4-rc1": {
     "libraries": {
@@ -1944,7 +1944,7 @@
         "net.fabricmc:intermediary:1.20.4-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5": {
     "libraries": {
@@ -1955,7 +1955,7 @@
         "net.fabricmc:intermediary:1.20.5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-pre1": {
     "libraries": {
@@ -1966,7 +1966,7 @@
         "net.fabricmc:intermediary:1.20.5-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-pre2": {
     "libraries": {
@@ -1977,7 +1977,7 @@
         "net.fabricmc:intermediary:1.20.5-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-pre3": {
     "libraries": {
@@ -1988,7 +1988,7 @@
         "net.fabricmc:intermediary:1.20.5-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-pre4": {
     "libraries": {
@@ -1999,7 +1999,7 @@
         "net.fabricmc:intermediary:1.20.5-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-rc1": {
     "libraries": {
@@ -2010,7 +2010,7 @@
         "net.fabricmc:intermediary:1.20.5-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-rc2": {
     "libraries": {
@@ -2021,7 +2021,7 @@
         "net.fabricmc:intermediary:1.20.5-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.5-rc3": {
     "libraries": {
@@ -2032,7 +2032,7 @@
         "net.fabricmc:intermediary:1.20.5-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.6": {
     "libraries": {
@@ -2043,7 +2043,7 @@
         "net.fabricmc:intermediary:1.20.6"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.20.6-rc1": {
     "libraries": {
@@ -2054,7 +2054,7 @@
         "net.fabricmc:intermediary:1.20.6-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21": {
     "libraries": {
@@ -2065,7 +2065,7 @@
         "net.fabricmc:intermediary:1.21"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21-pre1": {
     "libraries": {
@@ -2076,7 +2076,7 @@
         "net.fabricmc:intermediary:1.21-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21-pre2": {
     "libraries": {
@@ -2087,7 +2087,7 @@
         "net.fabricmc:intermediary:1.21-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21-pre3": {
     "libraries": {
@@ -2098,7 +2098,7 @@
         "net.fabricmc:intermediary:1.21-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21-pre4": {
     "libraries": {
@@ -2109,7 +2109,7 @@
         "net.fabricmc:intermediary:1.21-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21-rc1": {
     "libraries": {
@@ -2120,7 +2120,7 @@
         "net.fabricmc:intermediary:1.21-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.1": {
     "libraries": {
@@ -2131,7 +2131,7 @@
         "net.fabricmc:intermediary:1.21.1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.1-rc1": {
     "libraries": {
@@ -2142,7 +2142,7 @@
         "net.fabricmc:intermediary:1.21.1-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2": {
     "libraries": {
@@ -2153,7 +2153,7 @@
         "net.fabricmc:intermediary:1.21.2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-pre1": {
     "libraries": {
@@ -2164,7 +2164,7 @@
         "net.fabricmc:intermediary:1.21.2-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-pre2": {
     "libraries": {
@@ -2175,7 +2175,7 @@
         "net.fabricmc:intermediary:1.21.2-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-pre3": {
     "libraries": {
@@ -2186,7 +2186,7 @@
         "net.fabricmc:intermediary:1.21.2-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-pre4": {
     "libraries": {
@@ -2197,7 +2197,7 @@
         "net.fabricmc:intermediary:1.21.2-pre4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-pre5": {
     "libraries": {
@@ -2208,7 +2208,7 @@
         "net.fabricmc:intermediary:1.21.2-pre5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-rc1": {
     "libraries": {
@@ -2219,7 +2219,7 @@
         "net.fabricmc:intermediary:1.21.2-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.2-rc2": {
     "libraries": {
@@ -2230,7 +2230,7 @@
         "net.fabricmc:intermediary:1.21.2-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.3": {
     "libraries": {
@@ -2241,7 +2241,7 @@
         "net.fabricmc:intermediary:1.21.3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4": {
     "libraries": {
@@ -2252,7 +2252,7 @@
         "net.fabricmc:intermediary:1.21.4"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-pre1": {
     "libraries": {
@@ -2263,7 +2263,7 @@
         "net.fabricmc:intermediary:1.21.4-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-pre2": {
     "libraries": {
@@ -2274,7 +2274,7 @@
         "net.fabricmc:intermediary:1.21.4-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-pre3": {
     "libraries": {
@@ -2285,7 +2285,7 @@
         "net.fabricmc:intermediary:1.21.4-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-rc1": {
     "libraries": {
@@ -2296,7 +2296,7 @@
         "net.fabricmc:intermediary:1.21.4-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-rc2": {
     "libraries": {
@@ -2307,7 +2307,7 @@
         "net.fabricmc:intermediary:1.21.4-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.4-rc3": {
     "libraries": {
@@ -2318,7 +2318,7 @@
         "net.fabricmc:intermediary:1.21.4-rc3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5": {
     "libraries": {
@@ -2329,7 +2329,7 @@
         "net.fabricmc:intermediary:1.21.5"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5-pre1": {
     "libraries": {
@@ -2340,7 +2340,7 @@
         "net.fabricmc:intermediary:1.21.5-pre1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5-pre2": {
     "libraries": {
@@ -2351,7 +2351,7 @@
         "net.fabricmc:intermediary:1.21.5-pre2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5-pre3": {
     "libraries": {
@@ -2362,7 +2362,7 @@
         "net.fabricmc:intermediary:1.21.5-pre3"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5-rc1": {
     "libraries": {
@@ -2373,7 +2373,7 @@
         "net.fabricmc:intermediary:1.21.5-rc1"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "1.21.5-rc2": {
     "libraries": {
@@ -2384,7 +2384,7 @@
         "net.fabricmc:intermediary:1.21.5-rc2"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w43b": {
     "libraries": {
@@ -2395,7 +2395,7 @@
         "net.fabricmc:intermediary:18w43b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w43c": {
     "libraries": {
@@ -2406,7 +2406,7 @@
         "net.fabricmc:intermediary:18w43c"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w44a": {
     "libraries": {
@@ -2417,7 +2417,7 @@
         "net.fabricmc:intermediary:18w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w45a": {
     "libraries": {
@@ -2428,7 +2428,7 @@
         "net.fabricmc:intermediary:18w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w46a": {
     "libraries": {
@@ -2439,7 +2439,7 @@
         "net.fabricmc:intermediary:18w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w47a": {
     "libraries": {
@@ -2450,7 +2450,7 @@
         "net.fabricmc:intermediary:18w47a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w47b": {
     "libraries": {
@@ -2461,7 +2461,7 @@
         "net.fabricmc:intermediary:18w47b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w48a": {
     "libraries": {
@@ -2472,7 +2472,7 @@
         "net.fabricmc:intermediary:18w48a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w48b": {
     "libraries": {
@@ -2483,7 +2483,7 @@
         "net.fabricmc:intermediary:18w48b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w49a": {
     "libraries": {
@@ -2494,7 +2494,7 @@
         "net.fabricmc:intermediary:18w49a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "18w50a": {
     "libraries": {
@@ -2505,7 +2505,7 @@
         "net.fabricmc:intermediary:18w50a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w02a": {
     "libraries": {
@@ -2516,7 +2516,7 @@
         "net.fabricmc:intermediary:19w02a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w03a": {
     "libraries": {
@@ -2527,7 +2527,7 @@
         "net.fabricmc:intermediary:19w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w03b": {
     "libraries": {
@@ -2538,7 +2538,7 @@
         "net.fabricmc:intermediary:19w03b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w03c": {
     "libraries": {
@@ -2549,7 +2549,7 @@
         "net.fabricmc:intermediary:19w03c"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w04a": {
     "libraries": {
@@ -2560,7 +2560,7 @@
         "net.fabricmc:intermediary:19w04a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w04b": {
     "libraries": {
@@ -2571,7 +2571,7 @@
         "net.fabricmc:intermediary:19w04b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w05a": {
     "libraries": {
@@ -2582,7 +2582,7 @@
         "net.fabricmc:intermediary:19w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w06a": {
     "libraries": {
@@ -2593,7 +2593,7 @@
         "net.fabricmc:intermediary:19w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w07a": {
     "libraries": {
@@ -2604,7 +2604,7 @@
         "net.fabricmc:intermediary:19w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w08a": {
     "libraries": {
@@ -2615,7 +2615,7 @@
         "net.fabricmc:intermediary:19w08a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w08b": {
     "libraries": {
@@ -2626,7 +2626,7 @@
         "net.fabricmc:intermediary:19w08b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w09a": {
     "libraries": {
@@ -2637,7 +2637,7 @@
         "net.fabricmc:intermediary:19w09a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w11a": {
     "libraries": {
@@ -2648,7 +2648,7 @@
         "net.fabricmc:intermediary:19w11a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w11b": {
     "libraries": {
@@ -2659,7 +2659,7 @@
         "net.fabricmc:intermediary:19w11b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w12a": {
     "libraries": {
@@ -2670,7 +2670,7 @@
         "net.fabricmc:intermediary:19w12a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w12b": {
     "libraries": {
@@ -2681,7 +2681,7 @@
         "net.fabricmc:intermediary:19w12b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w13a": {
     "libraries": {
@@ -2692,7 +2692,7 @@
         "net.fabricmc:intermediary:19w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w13b": {
     "libraries": {
@@ -2703,7 +2703,7 @@
         "net.fabricmc:intermediary:19w13b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w14a": {
     "libraries": {
@@ -2714,7 +2714,7 @@
         "net.fabricmc:intermediary:19w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w14b": {
     "libraries": {
@@ -2725,7 +2725,7 @@
         "net.fabricmc:intermediary:19w14b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w34a": {
     "libraries": {
@@ -2736,7 +2736,7 @@
         "net.fabricmc:intermediary:19w34a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w35a": {
     "libraries": {
@@ -2747,7 +2747,7 @@
         "net.fabricmc:intermediary:19w35a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w36a": {
     "libraries": {
@@ -2758,7 +2758,7 @@
         "net.fabricmc:intermediary:19w36a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w37a": {
     "libraries": {
@@ -2769,7 +2769,7 @@
         "net.fabricmc:intermediary:19w37a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w38a": {
     "libraries": {
@@ -2780,7 +2780,7 @@
         "net.fabricmc:intermediary:19w38a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w38b": {
     "libraries": {
@@ -2791,7 +2791,7 @@
         "net.fabricmc:intermediary:19w38b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w39a": {
     "libraries": {
@@ -2802,7 +2802,7 @@
         "net.fabricmc:intermediary:19w39a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w40a": {
     "libraries": {
@@ -2813,7 +2813,7 @@
         "net.fabricmc:intermediary:19w40a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w41a": {
     "libraries": {
@@ -2824,7 +2824,7 @@
         "net.fabricmc:intermediary:19w41a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w42a": {
     "libraries": {
@@ -2835,7 +2835,7 @@
         "net.fabricmc:intermediary:19w42a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w44a": {
     "libraries": {
@@ -2846,7 +2846,7 @@
         "net.fabricmc:intermediary:19w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w45a": {
     "libraries": {
@@ -2857,7 +2857,7 @@
         "net.fabricmc:intermediary:19w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w45b": {
     "libraries": {
@@ -2868,7 +2868,7 @@
         "net.fabricmc:intermediary:19w45b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w46a": {
     "libraries": {
@@ -2879,7 +2879,7 @@
         "net.fabricmc:intermediary:19w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "19w46b": {
     "libraries": {
@@ -2890,7 +2890,7 @@
         "net.fabricmc:intermediary:19w46b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w06a": {
     "libraries": {
@@ -2901,7 +2901,7 @@
         "net.fabricmc:intermediary:20w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w07a": {
     "libraries": {
@@ -2912,7 +2912,7 @@
         "net.fabricmc:intermediary:20w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w08a": {
     "libraries": {
@@ -2923,7 +2923,7 @@
         "net.fabricmc:intermediary:20w08a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w09a": {
     "libraries": {
@@ -2934,7 +2934,7 @@
         "net.fabricmc:intermediary:20w09a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w10a": {
     "libraries": {
@@ -2945,7 +2945,7 @@
         "net.fabricmc:intermediary:20w10a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w11a": {
     "libraries": {
@@ -2956,7 +2956,7 @@
         "net.fabricmc:intermediary:20w11a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w12a": {
     "libraries": {
@@ -2967,7 +2967,7 @@
         "net.fabricmc:intermediary:20w12a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w13a": {
     "libraries": {
@@ -2978,7 +2978,7 @@
         "net.fabricmc:intermediary:20w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w13b": {
     "libraries": {
@@ -2989,7 +2989,7 @@
         "net.fabricmc:intermediary:20w13b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w14a": {
     "libraries": {
@@ -3000,7 +3000,7 @@
         "net.fabricmc:intermediary:20w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w14infinite": {
     "libraries": {
@@ -3011,7 +3011,7 @@
         "net.fabricmc:intermediary:20w14infinite"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w15a": {
     "libraries": {
@@ -3022,7 +3022,7 @@
         "net.fabricmc:intermediary:20w15a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w16a": {
     "libraries": {
@@ -3033,7 +3033,7 @@
         "net.fabricmc:intermediary:20w16a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w17a": {
     "libraries": {
@@ -3044,7 +3044,7 @@
         "net.fabricmc:intermediary:20w17a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w18a": {
     "libraries": {
@@ -3055,7 +3055,7 @@
         "net.fabricmc:intermediary:20w18a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w19a": {
     "libraries": {
@@ -3066,7 +3066,7 @@
         "net.fabricmc:intermediary:20w19a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w20a": {
     "libraries": {
@@ -3077,7 +3077,7 @@
         "net.fabricmc:intermediary:20w20a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w20b": {
     "libraries": {
@@ -3088,7 +3088,7 @@
         "net.fabricmc:intermediary:20w20b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w21a": {
     "libraries": {
@@ -3099,7 +3099,7 @@
         "net.fabricmc:intermediary:20w21a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w22a": {
     "libraries": {
@@ -3110,7 +3110,7 @@
         "net.fabricmc:intermediary:20w22a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w27a": {
     "libraries": {
@@ -3121,7 +3121,7 @@
         "net.fabricmc:intermediary:20w27a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w28a": {
     "libraries": {
@@ -3132,7 +3132,7 @@
         "net.fabricmc:intermediary:20w28a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w29a": {
     "libraries": {
@@ -3143,7 +3143,7 @@
         "net.fabricmc:intermediary:20w29a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w30a": {
     "libraries": {
@@ -3154,7 +3154,7 @@
         "net.fabricmc:intermediary:20w30a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w45a": {
     "libraries": {
@@ -3165,7 +3165,7 @@
         "net.fabricmc:intermediary:20w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w46a": {
     "libraries": {
@@ -3176,7 +3176,7 @@
         "net.fabricmc:intermediary:20w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w48a": {
     "libraries": {
@@ -3187,7 +3187,7 @@
         "net.fabricmc:intermediary:20w48a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w49a": {
     "libraries": {
@@ -3198,7 +3198,7 @@
         "net.fabricmc:intermediary:20w49a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "20w51a": {
     "libraries": {
@@ -3209,7 +3209,7 @@
         "net.fabricmc:intermediary:20w51a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w03a": {
     "libraries": {
@@ -3220,7 +3220,7 @@
         "net.fabricmc:intermediary:21w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w05a": {
     "libraries": {
@@ -3231,7 +3231,7 @@
         "net.fabricmc:intermediary:21w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w05b": {
     "libraries": {
@@ -3242,7 +3242,7 @@
         "net.fabricmc:intermediary:21w05b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w06a": {
     "libraries": {
@@ -3253,7 +3253,7 @@
         "net.fabricmc:intermediary:21w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w07a": {
     "libraries": {
@@ -3264,7 +3264,7 @@
         "net.fabricmc:intermediary:21w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w08a": {
     "libraries": {
@@ -3275,7 +3275,7 @@
         "net.fabricmc:intermediary:21w08a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w08b": {
     "libraries": {
@@ -3286,7 +3286,7 @@
         "net.fabricmc:intermediary:21w08b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w10a": {
     "libraries": {
@@ -3297,7 +3297,7 @@
         "net.fabricmc:intermediary:21w10a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w11a": {
     "libraries": {
@@ -3308,7 +3308,7 @@
         "net.fabricmc:intermediary:21w11a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w13a": {
     "libraries": {
@@ -3319,7 +3319,7 @@
         "net.fabricmc:intermediary:21w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w14a": {
     "libraries": {
@@ -3330,7 +3330,7 @@
         "net.fabricmc:intermediary:21w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w15a": {
     "libraries": {
@@ -3341,7 +3341,7 @@
         "net.fabricmc:intermediary:21w15a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w16a": {
     "libraries": {
@@ -3352,7 +3352,7 @@
         "net.fabricmc:intermediary:21w16a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w17a": {
     "libraries": {
@@ -3363,7 +3363,7 @@
         "net.fabricmc:intermediary:21w17a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w18a": {
     "libraries": {
@@ -3374,7 +3374,7 @@
         "net.fabricmc:intermediary:21w18a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w19a": {
     "libraries": {
@@ -3385,7 +3385,7 @@
         "net.fabricmc:intermediary:21w19a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w20a": {
     "libraries": {
@@ -3396,7 +3396,7 @@
         "net.fabricmc:intermediary:21w20a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w37a": {
     "libraries": {
@@ -3407,7 +3407,7 @@
         "net.fabricmc:intermediary:21w37a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w38a": {
     "libraries": {
@@ -3418,7 +3418,7 @@
         "net.fabricmc:intermediary:21w38a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w39a": {
     "libraries": {
@@ -3429,7 +3429,7 @@
         "net.fabricmc:intermediary:21w39a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w40a": {
     "libraries": {
@@ -3440,7 +3440,7 @@
         "net.fabricmc:intermediary:21w40a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w41a": {
     "libraries": {
@@ -3451,7 +3451,7 @@
         "net.fabricmc:intermediary:21w41a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w42a": {
     "libraries": {
@@ -3462,7 +3462,7 @@
         "net.fabricmc:intermediary:21w42a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w43a": {
     "libraries": {
@@ -3473,7 +3473,7 @@
         "net.fabricmc:intermediary:21w43a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "21w44a": {
     "libraries": {
@@ -3484,7 +3484,7 @@
         "net.fabricmc:intermediary:21w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w03a": {
     "libraries": {
@@ -3495,7 +3495,7 @@
         "net.fabricmc:intermediary:22w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w05a": {
     "libraries": {
@@ -3506,7 +3506,7 @@
         "net.fabricmc:intermediary:22w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w06a": {
     "libraries": {
@@ -3517,7 +3517,7 @@
         "net.fabricmc:intermediary:22w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w07a": {
     "libraries": {
@@ -3528,7 +3528,7 @@
         "net.fabricmc:intermediary:22w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w11a": {
     "libraries": {
@@ -3539,7 +3539,7 @@
         "net.fabricmc:intermediary:22w11a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w12a": {
     "libraries": {
@@ -3550,7 +3550,7 @@
         "net.fabricmc:intermediary:22w12a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w13a": {
     "libraries": {
@@ -3561,7 +3561,7 @@
         "net.fabricmc:intermediary:22w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w13oneblockatatime": {
     "libraries": {
@@ -3572,7 +3572,7 @@
         "net.fabricmc:intermediary:22w13oneblockatatime"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w14a": {
     "libraries": {
@@ -3583,7 +3583,7 @@
         "net.fabricmc:intermediary:22w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w15a": {
     "libraries": {
@@ -3594,7 +3594,7 @@
         "net.fabricmc:intermediary:22w15a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w16a": {
     "libraries": {
@@ -3605,7 +3605,7 @@
         "net.fabricmc:intermediary:22w16a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w16b": {
     "libraries": {
@@ -3616,7 +3616,7 @@
         "net.fabricmc:intermediary:22w16b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w17a": {
     "libraries": {
@@ -3627,7 +3627,7 @@
         "net.fabricmc:intermediary:22w17a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w18a": {
     "libraries": {
@@ -3638,7 +3638,7 @@
         "net.fabricmc:intermediary:22w18a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w19a": {
     "libraries": {
@@ -3649,7 +3649,7 @@
         "net.fabricmc:intermediary:22w19a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w24a": {
     "libraries": {
@@ -3660,7 +3660,7 @@
         "net.fabricmc:intermediary:22w24a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w42a": {
     "libraries": {
@@ -3671,7 +3671,7 @@
         "net.fabricmc:intermediary:22w42a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w43a": {
     "libraries": {
@@ -3682,7 +3682,7 @@
         "net.fabricmc:intermediary:22w43a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w44a": {
     "libraries": {
@@ -3693,7 +3693,7 @@
         "net.fabricmc:intermediary:22w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w45a": {
     "libraries": {
@@ -3704,7 +3704,7 @@
         "net.fabricmc:intermediary:22w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "22w46a": {
     "libraries": {
@@ -3715,7 +3715,7 @@
         "net.fabricmc:intermediary:22w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w03a": {
     "libraries": {
@@ -3726,7 +3726,7 @@
         "net.fabricmc:intermediary:23w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w04a": {
     "libraries": {
@@ -3737,7 +3737,7 @@
         "net.fabricmc:intermediary:23w04a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w05a": {
     "libraries": {
@@ -3748,7 +3748,7 @@
         "net.fabricmc:intermediary:23w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w06a": {
     "libraries": {
@@ -3759,7 +3759,7 @@
         "net.fabricmc:intermediary:23w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w07a": {
     "libraries": {
@@ -3770,7 +3770,7 @@
         "net.fabricmc:intermediary:23w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w12a": {
     "libraries": {
@@ -3781,7 +3781,7 @@
         "net.fabricmc:intermediary:23w12a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w13a": {
     "libraries": {
@@ -3792,7 +3792,7 @@
         "net.fabricmc:intermediary:23w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w13a_or_b": {
     "libraries": {
@@ -3803,7 +3803,7 @@
         "net.fabricmc:intermediary:23w13a_or_b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w13a_or_b_original": {
     "libraries": {
@@ -3814,7 +3814,7 @@
         "net.fabricmc:intermediary:23w13a_or_b_original"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w14a": {
     "libraries": {
@@ -3825,7 +3825,7 @@
         "net.fabricmc:intermediary:23w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w16a": {
     "libraries": {
@@ -3836,7 +3836,7 @@
         "net.fabricmc:intermediary:23w16a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w17a": {
     "libraries": {
@@ -3847,7 +3847,7 @@
         "net.fabricmc:intermediary:23w17a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w18a": {
     "libraries": {
@@ -3858,7 +3858,7 @@
         "net.fabricmc:intermediary:23w18a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w31a": {
     "libraries": {
@@ -3869,7 +3869,7 @@
         "net.fabricmc:intermediary:23w31a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w32a": {
     "libraries": {
@@ -3880,7 +3880,7 @@
         "net.fabricmc:intermediary:23w32a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w33a": {
     "libraries": {
@@ -3891,7 +3891,7 @@
         "net.fabricmc:intermediary:23w33a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w35a": {
     "libraries": {
@@ -3902,7 +3902,7 @@
         "net.fabricmc:intermediary:23w35a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w40a": {
     "libraries": {
@@ -3913,7 +3913,7 @@
         "net.fabricmc:intermediary:23w40a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w41a": {
     "libraries": {
@@ -3924,7 +3924,7 @@
         "net.fabricmc:intermediary:23w41a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w42a": {
     "libraries": {
@@ -3935,7 +3935,7 @@
         "net.fabricmc:intermediary:23w42a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w43a": {
     "libraries": {
@@ -3946,7 +3946,7 @@
         "net.fabricmc:intermediary:23w43a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w43b": {
     "libraries": {
@@ -3957,7 +3957,7 @@
         "net.fabricmc:intermediary:23w43b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w44a": {
     "libraries": {
@@ -3968,7 +3968,7 @@
         "net.fabricmc:intermediary:23w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w45a": {
     "libraries": {
@@ -3979,7 +3979,7 @@
         "net.fabricmc:intermediary:23w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w46a": {
     "libraries": {
@@ -3990,7 +3990,7 @@
         "net.fabricmc:intermediary:23w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w51a": {
     "libraries": {
@@ -4001,7 +4001,7 @@
         "net.fabricmc:intermediary:23w51a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "23w51b": {
     "libraries": {
@@ -4012,7 +4012,7 @@
         "net.fabricmc:intermediary:23w51b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w03a": {
     "libraries": {
@@ -4023,7 +4023,7 @@
         "net.fabricmc:intermediary:24w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w03b": {
     "libraries": {
@@ -4034,7 +4034,7 @@
         "net.fabricmc:intermediary:24w03b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w04a": {
     "libraries": {
@@ -4045,7 +4045,7 @@
         "net.fabricmc:intermediary:24w04a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w05a": {
     "libraries": {
@@ -4056,7 +4056,7 @@
         "net.fabricmc:intermediary:24w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w05b": {
     "libraries": {
@@ -4067,7 +4067,7 @@
         "net.fabricmc:intermediary:24w05b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w06a": {
     "libraries": {
@@ -4078,7 +4078,7 @@
         "net.fabricmc:intermediary:24w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w07a": {
     "libraries": {
@@ -4089,7 +4089,7 @@
         "net.fabricmc:intermediary:24w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w09a": {
     "libraries": {
@@ -4100,7 +4100,7 @@
         "net.fabricmc:intermediary:24w09a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w10a": {
     "libraries": {
@@ -4111,7 +4111,7 @@
         "net.fabricmc:intermediary:24w10a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w11a": {
     "libraries": {
@@ -4122,7 +4122,7 @@
         "net.fabricmc:intermediary:24w11a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w12a": {
     "libraries": {
@@ -4133,7 +4133,7 @@
         "net.fabricmc:intermediary:24w12a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w13a": {
     "libraries": {
@@ -4144,7 +4144,7 @@
         "net.fabricmc:intermediary:24w13a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w14a": {
     "libraries": {
@@ -4155,7 +4155,7 @@
         "net.fabricmc:intermediary:24w14a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w14potato": {
     "libraries": {
@@ -4166,7 +4166,7 @@
         "net.fabricmc:intermediary:24w14potato"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w14potato_original": {
     "libraries": {
@@ -4177,7 +4177,7 @@
         "net.fabricmc:intermediary:24w14potato_original"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w18a": {
     "libraries": {
@@ -4188,7 +4188,7 @@
         "net.fabricmc:intermediary:24w18a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w19a": {
     "libraries": {
@@ -4199,7 +4199,7 @@
         "net.fabricmc:intermediary:24w19a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w19b": {
     "libraries": {
@@ -4210,7 +4210,7 @@
         "net.fabricmc:intermediary:24w19b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w20a": {
     "libraries": {
@@ -4221,7 +4221,7 @@
         "net.fabricmc:intermediary:24w20a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w21a": {
     "libraries": {
@@ -4232,7 +4232,7 @@
         "net.fabricmc:intermediary:24w21a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w21b": {
     "libraries": {
@@ -4243,7 +4243,7 @@
         "net.fabricmc:intermediary:24w21b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w33a": {
     "libraries": {
@@ -4254,7 +4254,7 @@
         "net.fabricmc:intermediary:24w33a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w34a": {
     "libraries": {
@@ -4265,7 +4265,7 @@
         "net.fabricmc:intermediary:24w34a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w35a": {
     "libraries": {
@@ -4276,7 +4276,7 @@
         "net.fabricmc:intermediary:24w35a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w36a": {
     "libraries": {
@@ -4287,7 +4287,7 @@
         "net.fabricmc:intermediary:24w36a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w37a": {
     "libraries": {
@@ -4298,7 +4298,7 @@
         "net.fabricmc:intermediary:24w37a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w38a": {
     "libraries": {
@@ -4309,7 +4309,7 @@
         "net.fabricmc:intermediary:24w38a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w39a": {
     "libraries": {
@@ -4320,7 +4320,7 @@
         "net.fabricmc:intermediary:24w39a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w40a": {
     "libraries": {
@@ -4331,7 +4331,7 @@
         "net.fabricmc:intermediary:24w40a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w44a": {
     "libraries": {
@@ -4342,7 +4342,7 @@
         "net.fabricmc:intermediary:24w44a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w45a": {
     "libraries": {
@@ -4353,7 +4353,7 @@
         "net.fabricmc:intermediary:24w45a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "24w46a": {
     "libraries": {
@@ -4364,7 +4364,7 @@
         "net.fabricmc:intermediary:24w46a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w02a": {
     "libraries": {
@@ -4375,7 +4375,7 @@
         "net.fabricmc:intermediary:25w02a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w03a": {
     "libraries": {
@@ -4386,7 +4386,7 @@
         "net.fabricmc:intermediary:25w03a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w04a": {
     "libraries": {
@@ -4397,7 +4397,7 @@
         "net.fabricmc:intermediary:25w04a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w05a": {
     "libraries": {
@@ -4408,7 +4408,7 @@
         "net.fabricmc:intermediary:25w05a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w06a": {
     "libraries": {
@@ -4419,7 +4419,7 @@
         "net.fabricmc:intermediary:25w06a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w07a": {
     "libraries": {
@@ -4430,7 +4430,7 @@
         "net.fabricmc:intermediary:25w07a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w08a": {
     "libraries": {
@@ -4441,7 +4441,7 @@
         "net.fabricmc:intermediary:25w08a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w09a": {
     "libraries": {
@@ -4452,7 +4452,7 @@
         "net.fabricmc:intermediary:25w09a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w09b": {
     "libraries": {
@@ -4463,7 +4463,7 @@
         "net.fabricmc:intermediary:25w09b"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w10a": {
     "libraries": {
@@ -4474,7 +4474,7 @@
         "net.fabricmc:intermediary:25w10a"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "25w14craftmine": {
     "libraries": {
@@ -4485,7 +4485,7 @@
         "net.fabricmc:intermediary:25w14craftmine"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   },
   "3D Shareware v1.34": {
     "libraries": {
@@ -4496,6 +4496,6 @@
         "net.fabricmc:intermediary:3D Shareware v1.34"
       ]
     },
-    "loader": "0.16.11"
+    "loader": "0.16.12"
   }
 }
