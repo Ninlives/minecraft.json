@@ -13,10 +13,9 @@ jobs:
       with:
         # Nix Flakes doesn't work on shallow clones
         fetch-depth: 0
-    - name: Install nixFlake
-      uses: cachix/install-nix-action@v12
+    - name: Install Lix
+      uses: samueldr/lix-gha-installer-action@latest
       with:
-        install_url: https://github.com/numtide/nix-unstable-installer/releases/download/nix-2.9.0pre20220513_bf89cd9/install
         extra_nix_config: |
           experimental-features = nix-command flakes
     - name: Configure git
