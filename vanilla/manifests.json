@@ -1149,6 +1149,11 @@
     "type": "snapshot",
     "url": "https://piston-meta.mojang.com/v1/packages/965a58d3ef66704a2f554c3de2f7ca86a6f4b8e4/1.21.10-rc1.json"
   },
+  "1.21.11-pre1": {
+    "sha1": "9696c8840e4a9f6783e154bf6b67ba049ace5d3d",
+    "type": "snapshot",
+    "url": "https://piston-meta.mojang.com/v1/packages/9696c8840e4a9f6783e154bf6b67ba049ace5d3d/1.21.11-pre1.json"
+  },
   "1.21.2": {
     "sha1": "2acb73643dd62052f45e31d52b24f6f0ed9bc6fa",
     "type": "release",
