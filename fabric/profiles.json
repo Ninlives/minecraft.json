@@ -2238,6 +2238,24 @@
     },
     "loader": "0.18.1"
   },
+  "1.21.11-pre5": {
+    "libraries": {
+      "client": [
+        "net.fabricmc:intermediary:1.21.11-pre5"
+      ],
+      "server": [
+        "net.fabricmc:intermediary:1.21.11-pre5"
+      ]
+    },
+    "loader": "0.18.1"
+  },
+  "1.21.11-pre5_unobfuscated": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.18.1"
+  },
   "1.21.2": {
     "libraries": {
       "client": [
