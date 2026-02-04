@@ -5149,6 +5149,13 @@
     },
     "loader": "0.18.4"
   },
+  "26.1-snapshot-6": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.18.4"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
