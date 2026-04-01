@@ -5240,6 +5240,13 @@
     },
     "loader": "0.18.5"
   },
+  "26.1.1-rc-1": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.18.5"
+  },
   "3D Shareware v1.34": {
     "libraries": {
       "client": [
