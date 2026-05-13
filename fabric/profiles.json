@@ -5310,6 +5310,13 @@
     },
     "loader": "0.19.2"
   },
+  "26.2-snapshot-7": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.19.2"
+  },
   "26w14a": {
     "libraries": {
       "client": [],
