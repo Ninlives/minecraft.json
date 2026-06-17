@@ -5268,6 +5268,13 @@
     },
     "loader": "0.19.3"
   },
+  "26.2": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.19.3"
+  },
   "26.2-pre-1": {
     "libraries": {
       "client": [],
