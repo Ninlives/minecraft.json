@@ -5408,6 +5408,13 @@
     },
     "loader": "0.19.5"
   },
+  "26.3-rc-1": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.19.5"
+  },
   "26.3-snapshot-1": {
     "libraries": {
       "client": [],
