@@ -5548,6 +5548,13 @@
     },
     "loader": "0.20.1"
   },
+  "26.4-snapshot-7": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.20.1"
+  },
   "26w14a": {
     "libraries": {
       "client": [],
