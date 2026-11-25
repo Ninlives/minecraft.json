@@ -5506,6 +5506,13 @@
     },
     "loader": "0.20.1"
   },
+  "26.4-pre-1": {
+    "libraries": {
+      "client": [],
+      "server": []
+    },
+    "loader": "0.20.1"
+  },
   "26.4-snapshot-1": {
     "libraries": {
       "client": [],
